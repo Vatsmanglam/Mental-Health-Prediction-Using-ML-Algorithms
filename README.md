@@ -19,4 +19,4 @@ Mental health is a critical aspect of overall well-being, and early identificati
 
 **.** Model Evaluation: Assessing the performance of models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
-**.**Hyperparameter Tuning: Optimizing model performance through techniques such as grid search and random search.
+**.** Hyperparameter Tuning: Optimizing model performance through techniques such as grid search and random search.
