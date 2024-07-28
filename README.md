@@ -13,10 +13,10 @@ Mental health is a critical aspect of overall well-being, and early identificati
 
 **.** Data Preprocessing: Handling missing values, encoding categorical variables, and scaling features.
 
-. Exploratory Data Analysis (EDA): Understanding the data distribution, relationships, and key insights through visualizations.
+**.** Exploratory Data Analysis (EDA): Understanding the data distribution, relationships, and key insights through visualizations.
 
-. Model Building: Implementing multiple machine learning algorithms, including logistic regression, decision trees, random forests, support vector machines (SVM), and more.
+**.** Model Building: Implementing multiple machine learning algorithms, including logistic regression, decision trees, random forests, support vector machines (SVM), and more.
 
-.Model Evaluation: Assessing the performance of models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+**.**Model Evaluation: Assessing the performance of models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
-.Hyperparameter Tuning: Optimizing model performance through techniques such as grid search and random search.
+**.**Hyperparameter Tuning: Optimizing model performance through techniques such as grid search and random search.
