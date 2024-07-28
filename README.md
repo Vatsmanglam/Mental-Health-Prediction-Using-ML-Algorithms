@@ -20,3 +20,33 @@ Mental health is a critical aspect of overall well-being, and early identificati
 **.** Model Evaluation: Assessing the performance of models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
 **.** Hyperparameter Tuning: Optimizing model performance through techniques such as grid search and random search.
+
+
+**Installation**
+
+To run this project, you need to install the required dependencies. Use the following command to install them:
+
+pip install -r requirements.txt
+
+**Usage**
+
+git clone https://github.com/your-username/mental-health-prediction-ml.git
+cd mental-health-prediction-ml
+
+
+**Open the Jupyter Notebook**
+
+jupyter notebook Mental_Health_Prediction.ipynb
+
+
+**License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Acknowledgements**
+
+**.**   Dataset Source: 'https://github.com/cdodiya/Mental-Health-Prediction-using-Machine-Learning-Algorithms/blob/main/survey.csv'.
+
+**.**  Inspiration and support from the community and mentors.
+
+
