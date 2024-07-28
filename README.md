@@ -11,7 +11,7 @@ Mental health is a critical aspect of overall well-being, and early identificati
 
 **Key Features**
 
-. Data Preprocessing: Handling missing values, encoding categorical variables, and scaling features.
+**.** Data Preprocessing: Handling missing values, encoding categorical variables, and scaling features.
 
 . Exploratory Data Analysis (EDA): Understanding the data distribution, relationships, and key insights through visualizations.
 
