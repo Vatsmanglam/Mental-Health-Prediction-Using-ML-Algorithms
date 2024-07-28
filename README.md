@@ -45,7 +45,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Acknowledgements**
 
-**.**   Dataset Source: 'https://github.com/cdodiya/Mental-Health-Prediction-using-Machine-Learning-Algorithms/blob/main/survey.csv'.
+**.**   Dataset Source: https://github.com/cdodiya/Mental-Health-Prediction-using-Machine-Learning-Algorithms/blob/main/survey.csv.
 
 **.**  Inspiration and support from the community and mentors.
 
