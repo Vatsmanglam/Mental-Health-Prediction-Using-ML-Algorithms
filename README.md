@@ -41,7 +41,7 @@ jupyter notebook Mental_Health_Prediction.ipynb
 
 **License**
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details..
 
 **Acknowledgements**
 
