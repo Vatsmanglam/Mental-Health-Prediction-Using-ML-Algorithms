@@ -6,7 +6,7 @@ This project aims to predict mental health issues using various machine learning
 
 
 
-Project Description.
+Project Description
 
 Mental health is a critical aspect of overall well-being, and early identification of potential mental health issues can lead to timely intervention and support. In this project, we explore the application of machine learning algorithms to predict mental health conditions. The dataset used contains various features related to demographics, lifestyle, and other relevant factors.
 
